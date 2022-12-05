@@ -1,0 +1,16 @@
+{
+    "degrees": [
+        {
+            "school": "University of South Carolina",
+            "major": "Computer Science",
+            "type": "BS",
+            "yearConferred": 2019
+        },
+        {
+            "school": "Boston University",
+            "major": "Software Development",
+            "type": "MS",
+            "yearConferred": 2023
+        }
+    ]
+}

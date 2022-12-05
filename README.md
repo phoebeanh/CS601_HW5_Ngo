@@ -10,16 +10,19 @@ store the following information:
         i. School
         ii. Program/Major:
         iii. Type (AA, BA, BS, MS, etc.)
-     iv. Year conferred (future dates OK)
-    b. Consider looking at my_favorite_movies.json in the lecture notes as
-    an example
+        iv. Year conferred (future dates OK)
+    b. Consider looking at my_favorite_movies.json in the lecture notes as an example
+
 After you create your JSON file, validate it at http://jsonlint.com
-    Assessment/Grading:
+
+
+Assessment/Grading:
 Your assignment submission will be scored by the following criteria:
 1. Strict adherence to the requirements stated above: 80%
 2. Code validates as valid JSON: 20%
-Note: Preserve the code from this part of the homework, as you may be building
-upon this in future assignments.
+
+
+Note: Preserve the code from this part of the homework, as you may be buildingupon this in future assignments.
 
 
 ## Part 2 – JSON and Fetch (75 Points)
@@ -38,6 +41,8 @@ iv. Process the returned JSON data using JavaScript
 3. Upload your JavaScript program to the same directory on the webserver
 where your JSON file resides.
 4. Run your program and verify it works as outlined above.
+
+
 Assessment/Grading:
 Your assignment submission will be scored by the following criteria:
 1. Strict adherence to the requirements stated above: 70%
