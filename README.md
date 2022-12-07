@@ -1,5 +1,7 @@
 # CS601_HW5_Ngo
 
+Please view live demo of this assignment at https://phoeben.sgedu.site/
+
 ## Part 1 – JSON (25 Points)
 
 Requirements:
@@ -48,6 +50,7 @@ Your assignment submission will be scored by the following criteria:
 1. Strict adherence to the requirements stated above: 70%
 2. Code validates without errors (warnings are OK): 10%
 3. Overall quality of work and effort as determined by your facilitator: 20%
+
 Tip: You learned about JavaScript objects in Module 3. JSON objects are
 JavaScript objects. You then learned how the DOM works and how to manipulate
 it in Module 4 and how AJAX works in Module 5. You’ll need to string these
